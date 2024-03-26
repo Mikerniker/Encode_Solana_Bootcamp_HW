@@ -11,7 +11,7 @@
 
 3. What is special about this address
 
-- This address special is its label as an "Incinerator." 
+- This address is labelled as an "Incinerator." 
 - Its purpose might be to burn or destroy tokens/assets within the blockchain network.
 - Could be used to remove tokens from circulation or implementing a controlled reduction in token supply.
 
@@ -19,7 +19,7 @@
 4. What is this transaction doing ?
 
 5. What is the largest balance you can find in an account ?
-In Solana, the current maximum size of an account's data is 10 MiB, 
+- In Solana, the current maximum size of an account's data is 10 MiB, 
 which can be changed (increased or decreased) at a rate over all accounts of 
 20 MiB per transaction, and the size can be increased by 10 KiB per account and per instruction. [Reference](https://solana.com/docs/core/accounts)
 
