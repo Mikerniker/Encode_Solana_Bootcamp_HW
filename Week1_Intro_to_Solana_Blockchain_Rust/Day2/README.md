@@ -2,11 +2,30 @@
 - Solana has a network of over [3,400 validators](https://solana.com/news/validator-health-report-march-2023) as of March 2023
 
 2. What is special about this block?
+- It marks the beginning of the blockchain network from which all subsequent blocks are linked, forming the Solana blockchain.
+- It is the first block, known as the genesis block.
+- It's the first block, indicated by slot 0.
+- It coincides when Solana mainnet beta launched in March 2020, three years ago, based on its timestamp (local and UTC) Mar 16, 2020
+- Its Epoch, Slot and Parent Slots are all 0
+
+
 3. What is special about this address
+
+- This address special is its label as an "Incinerator." 
+- Its purpose might be to burn or destroy tokens/assets within the blockchain network.
+- Could be used to remove tokens from circulation or implementing a controlled reduction in token supply.
+
+
 4. What is this transaction doing ?
+
 5. What is the largest balance you can find in an account ?
+In Solana, the current maximum size of an account's data is 10 MiB, 
+which can be changed (increased or decreased) at a rate over all accounts of 
+20 MiB per transaction, and the size can be increased by 10 KiB per account and per instruction. [Reference](https://solana.com/docs/core/accounts)
+
 6. What advantages will the end user see when using Solana compared to other blockchains ?
-7. Install Rust if needed.
-8. Follow these instructions for Mac / Linux
-9. See these instructions for Windows
-11. Alternatively use gitpod for a linux environment
+- high transaction throughput
+- low transaction fees
+- scalability
+- decentralization
+- interoperability
