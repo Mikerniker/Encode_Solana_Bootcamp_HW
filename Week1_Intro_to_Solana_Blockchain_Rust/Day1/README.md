@@ -22,3 +22,12 @@ To Prevent Cheating:
 - Implement penalties for cheating, such as forfeiting assets or being temporarily banned from the game.
 
 2. Do you feel that Central Bank Digital Currencies (CBDCs) are a move towards decentralisation? Will they help or hinder adoption of other cryptocurrencies?
+Move Towards Decentralization: 
+- CBDCs represent a digitized form of fiat currency issued by central banks. 
+- While they introduce digital innovations, they are not inherently decentralized as they are controlled and regulated by 
+central authorities. 
+- However, they could potentially leverage decentralized technologies like blockchain for certain functionalities.
+- Some argue that CBDCs could hinder the adoption of decentralized cryptocurrencies by providing a government-backed 
+digital alternative that may be perceived as more trustworthy and stable. 
+- On the other hand, CBDCs could also serve as a gateway for mainstream users to explore and understand digital currencies, potentially leading to increased adoption of cryptocurrencies in general. 
+- Ultimately, the impact will depend on various factors including government regulations, technological advancements, and public perception.
