@@ -1,5 +1,5 @@
-1. Discuss what a decentralised version of a game like monopoly would be like, if there was no software on a central server. Consider: What are the essential pieces of
-functionality? How could people cheat? and How could you prevent them from cheating?
+**1. Discuss what a decentralised version of a game like monopoly would be like, if there was no software on a central server. Consider: What are the essential pieces of
+functionality? How could people cheat? and How could you prevent them from cheating?**
 
 Functionality:
 - In a decentralized version of Monopoly, the game would rely on distributed ledger technology (such as blockchain) to execute transactions. 
@@ -21,7 +21,8 @@ To Prevent Cheating:
 - Regular audits and monitoring of game transactions to detect any suspicious activities.
 - Implement penalties for cheating, such as forfeiting assets or being temporarily banned from the game.
 
-2. Do you feel that Central Bank Digital Currencies (CBDCs) are a move towards decentralisation? Will they help or hinder adoption of other cryptocurrencies?
+**2. Do you feel that Central Bank Digital Currencies (CBDCs) are a move towards decentralisation? Will they help or hinder adoption of other cryptocurrencies?**
+
 Move Towards Decentralization: 
 - CBDCs represent a digitized form of fiat currency issued by central banks. 
 - While they introduce digital innovations, they are not inherently decentralized as they are controlled and regulated by 
