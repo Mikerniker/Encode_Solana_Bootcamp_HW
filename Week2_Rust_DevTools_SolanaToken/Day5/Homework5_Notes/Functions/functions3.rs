@@ -1,6 +1,6 @@
 // functions3.rs
 // Make me compile! Execute `rustlings hint functions3` for hints :)
-//Add an argument to call_this e.g. from call_this()  to call_this(5)
+// Notes: Add an argument to call_this e.g. from call_this()  to call_this(5)
 
 fn main() {
     call_this(5);

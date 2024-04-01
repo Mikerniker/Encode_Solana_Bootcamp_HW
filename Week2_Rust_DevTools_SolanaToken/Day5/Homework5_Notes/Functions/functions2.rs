@@ -1,6 +1,6 @@
 // functions2.rs
 // Make me compile! Execute `rustlings hint functions2` for hints :)
-// Add type to num i.e. i32
+// Notes: Add type e.g. from call_this(num) to call_this(num: i32)
 
 fn main() {
     call_this(3);
