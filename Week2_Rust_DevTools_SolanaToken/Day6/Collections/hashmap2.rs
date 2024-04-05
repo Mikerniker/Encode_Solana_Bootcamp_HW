@@ -8,6 +8,22 @@
 // not allowed to insert any more of these fruits!
 //
 // NOTES
+// basket: This is the hashmap representing our fruit basket. It contains the
+//fruits already present along with their respective counts.
+
+// contains_key(&fruit): This is a method provided by Rust's HashMap type.
+// It checks whether the hashmap contains a specific key, in this case, the fruit variable.
+ // It returns true if the key is present in the hashmap, otherwise false.
+
+// &fruit: The & symbol before fruit indicates that we are passing a reference
+//to the fruit variable rather than consuming it. This allows us to check whether
+//the fruit is present in the hashmap without taking ownership of it.
+
+// !: The exclamation mark ! is a logical negation operator in Rust.
+//It reverses the boolean value of the expression that follows it.
+//So, !basket.contains_key(&fruit) means "if the basket does not contain the given fruit."
+
+
 
 use std::collections::HashMap;
 
