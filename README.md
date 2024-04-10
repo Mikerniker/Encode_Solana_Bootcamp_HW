@@ -10,12 +10,16 @@ This repo is for collated notes/ group answers to the daily homework given each 
   - [Day 3](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week1_Intro_to_Solana_Blockchain_Rust/Day3)
   - [Day 4](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week1_Intro_to_Solana_Blockchain_Rust/Day4)
 - [Week 2: Rust / Development tools / Solana Token Program](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week2_Rust_DevTools_SolanaToken)
-  - [Day 5](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week1_Intro_to_Solana_Blockchain_Rust/Day5)
-  - [Day 6](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week1_Intro_to_Solana_Blockchain_Rust/Day6)
-  - [Day 7](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week1_Intro_to_Solana_Blockchain_Rust/Day7)
+  - [Day 5](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week2_Rust_DevTools_SolanaToken/Day5)
+  - [Day 6](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week2_Rust_DevTools_SolanaToken/Day6)
+  - [Day 7](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week2_Rust_DevTools_SolanaToken/Day7)
+  - [Day 8](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week2_Rust_DevTools_SolanaToken/Day8)
+- [Week 3: Anchor Framework / DeFi / Security](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week3_Anchor_Framework)
+  - [Day 9](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week3_Anchor_Framework/Day9) 
+  - [Day 10](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week3_Anchor_Framework/Day10)
+  - [Day 11](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week3_Anchor_Framework/Day11)
 
-[//]: # (  - [Day 8]&#40;https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week1_Intro_to_Solana_Blockchain_Rust/Day8&#41;)
-- Week 3: Anchor Framework / DeFi / Security
+[//]: # (- - [Day 8]&#40;https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week1_Intro_to_Solana_Blockchain_Rust/Day8&#41;)
 - Week 4: Solana Program Library / NFTs
 - Week 5: Workshop Week
 - Week 6: Project Week
