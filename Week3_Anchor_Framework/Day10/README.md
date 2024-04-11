@@ -26,8 +26,29 @@ console.log("Airdrop requested. Waiting for confirmation...");
 await pg.connection.confirmTransaction(airdropSignature);
 console.log("Airdrop confirmed!");
 ```
-Final Version:
+Final Version client.ts:
 ```commandline
+// Client
+console.log("My address:", pg.wallet.publicKey.toString());
+
+// Request Airdrop
+const airdropAmountLamports = 1000000;
+const airdropSignature = await pg.connection.requestAirdrop(
+    pg.wallet.publicKey,
+    airdropAmountLamports
+);
+console.log("Airdrop requested. Waiting for confirmation...");
+
+
+// Wait for confirmation
+await pg.connection.confirmTransaction(airdropSignature);
+console.log("Airdrop confirmed!");
+
+
+const balance = await pg.connection.getBalance(pg.wallet.publicKey);
+console.log(`My balance: ${balance / web3.LAMPORTS_PER_SOL} SOL`);
 
 
 ```
+
+2. Investigating Dapp Scaffold
