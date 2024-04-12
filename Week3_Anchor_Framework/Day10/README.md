@@ -55,3 +55,11 @@ console.log(`My balance: ${balance / web3.LAMPORTS_PER_SOL} SOL`);
 ![part10b](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/assets/63586831/72a86b2a-39b5-449b-a050-2b6629618b02)
 
 2. Investigating Dapp Scaffold
+Follow the installation instructions in the notes.
+Try following the functionality it provides:
+- Try a simple client transaction in Solana
+playground (https://beta.solpg.io/)
+- Make sure you are connected to the
+devnet and you have a wallet set up
+- Run the default client code, this will tell
+you your balance.
