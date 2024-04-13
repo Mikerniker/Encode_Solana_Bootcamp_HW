@@ -2,7 +2,7 @@
 ### Sponsored by the Solana Foundation Q1 2024
 
 A six-week programme that offers a hands-on approach to building on Solana.
-This repo is for collated notes/ group answers to the daily homework given each week. 
+This repo is for collated notes/personal and group answers to the daily homework given each week. 
 
 - [Week 1: Introduction to Solana / Rust](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week1_Intro_to_Solana_Blockchain_Rust)
   - [Day 1](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week1_Intro_to_Solana_Blockchain_Rust/Day1)
