@@ -93,6 +93,8 @@ mod tests {
 --->
 
 **Lottery Program**
+
+  - **example1-lottery/src/lib.rs**
 1. Modify the lottery program so that the payout is only 90% of the total deposits.
 
 ```commandline
@@ -100,9 +102,36 @@ mod tests {
         let payout_amount = (balance * 90) / 100;
 ```
 2. Add a function that allows lottery admin to withdraw funds after the winner is picked.
+```commandline
+    // Withdraw funds by admin after the winner is picked  
+    pub fn withdraw_funds(ctx: Context<WithdrawFunds>) -> Result<()> {
+        let lottery: &mut Account<Lottery> = &mut ctx.accounts.lottery;
+        let admin: &mut Signer = &mut ctx.accounts.admin;
 
+        // Only admin can withdraw funds
+        assert!(admin.key() == &lottery.authority, "Only admin can withdraw funds.");
 
-**example1-lottery/src/lib.rs**
+        // Transfer funds to admin
+        **admin.to_account_info().try_borrow_mut_lamports()? += lottery.to_account_info().lamports();
+
+        // Reset lottery
+        lottery.count = 0;
+        lottery.winner_index = 0;
+
+        Ok(())
+    }
+```
+and
+```commandline
+#[derive(Accounts)]
+pub struct WithdrawFunds<'info> {
+    #[account(mut)]
+    pub lottery: Account<'info, Lottery>,
+    #[account(mut)]
+    pub admin: Signer<'info>,
+}
+```
+
 
 
 <!--- 
