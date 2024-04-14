@@ -91,3 +91,7 @@ mod tests {
     }
 }
 --->
+
+**Lottery Program**
+1. Modify the lottery program so that the payout is only 90% of the total deposits.
+2. Add a function that allows lottery admin to withdraw funds after the winner is picked
