@@ -1,7 +1,33 @@
+### Homework 11
+1. Use the Anchor command line tools to create a new project.
+. Adapt the default program as follows:
+  - In an account we want to store a balance of type u64.
+  - On initialisation, this balance should be set to 100.
+  - Write a test to check that the balance was initialised correctly.
+  
+**Note this is not complete yet, still confused...** 
+In lib.rs:
 
-
-*Note this is not complete yet, still confused* 
 ```commandline
+use anchor_lang::prelude::*;
+
+declare_id!("24gY4gEFHmtEyDJRE5uTZamUdDNrkMmnZ4o5Gn8D3Ehc");
+
+#[program]
+pub mod makebalance {
+    use super::*;
+
+    pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
+        let mut data = ctx.accounts.data;
+        data.balance = 100;
+        data.authority = ctx.accounts.admin.key();
+              
+        Ok(())
+    }
+```
+
+<!--
+
 use anchor_lang::prelude::*;
 
 declare_id!("24gY4gEFHmtEyDJRE5uTZamUdDNrkMmnZ4o5Gn8D3Ehc");
@@ -64,4 +90,4 @@ mod tests {
         assert_eq!(account.balance, 100);
     }
 }
-```
+--->
