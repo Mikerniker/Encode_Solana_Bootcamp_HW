@@ -21,3 +21,7 @@ changes adhere to best practices and security standards.
 
 3. Should bounties be paid to attackers after the exploit ?
 
+Paying bounties may incentivize attackers to 
+continue exploiting vulnerabilities, but it can encourage 
+responsible disclosure and cooperation. It's difficult to say since we may 
+never really know the attacker's intentions.
