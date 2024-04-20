@@ -4,6 +4,9 @@
 Notes:
 - Did it on Solana Playground and downloaded my code into the `TinyAdventure` directory.
 
+![tinyadventure1](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/assets/63586831/2964e721-7eee-4fbb-9086-1a3d9809d040)
+![tinadventure2](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/assets/63586831/d62acc21-e953-437b-827a-6d704c4fa424)
+![tinyadventure3](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/assets/63586831/0c80444c-6a44-4d0f-8388-1830b8b1958e)
 
 **How to run locally**
 
