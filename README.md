@@ -18,8 +18,10 @@ This repo is for collated notes/personal and group answers to the daily homework
   - [Day 9](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week3_Anchor_Framework/Day9) 
   - [Day 10](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week3_Anchor_Framework/Day10)
   - [Day 11](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week3_Anchor_Framework/Day11)
-
-[//]: # (- - [Day 8]&#40;https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week1_Intro_to_Solana_Blockchain_Rust/Day8&#41;)
-- Week 4: Solana Program Library / NFTs
+  - [Day 12](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week3_Anchor_Framework/Day12)
+- [Week 4: Solana Program Library / NFTs]((https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week4_Solana_Program_Library_Security)) 
+  - [Day 13](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week4_Solana_Program_Library_Security/Day13) 
+  - [Day 14](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week4_Solana_Program_Library_Security/Day14)
+  - [Day 15](https://github.com/Mikerniker/Encode_Solana_Bootcamp_HW/tree/main/Week4_Solana_Program_Library_Security/Day15)
 - Week 5: Workshop Week
 - Week 6: Project Week
