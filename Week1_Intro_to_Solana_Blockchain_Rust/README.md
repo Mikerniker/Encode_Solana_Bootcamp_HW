@@ -15,3 +15,27 @@ Instructions for installing, creating a keypair, connecting to the dev network, 
 - **Vectors:** Dynamic arrays, creation, addition, retrieval, iteration.
 - **Iterators:** Efficient, lazily evaluated, used for iteration.
 - **Shadowing:** Re-declaring variables within scope.
+
+
+###LESSON 4 
+
+Lesson 4 covers various topics related to Rust and Solana development:
+- **Rust Continued:**
+  - *Lifetime Constraints on References:* Ensuring references don't outlive their scope.
+  - *Slices:* Dynamically-sized array-like data structures in Rust.
+  - *Printing/Outputting:* Overview of formatting and printing output in Rust.
+  - *Packages, Crates, and Modules:* Understanding Rust project structure and organization.
+  - *Macros:* Introduction to macros and their usage in Rust.
+  - *Hashmaps:* Working with hashmap data structures in Rust.
+  - *Rust Errors etc.:* Handling recoverable and unrecoverable errors in Rust.
+- **Solana Development:**
+  - *Solana Programs Overview:* Understanding Solana program execution and structure.
+  - *Transactions:* Overview of transactions in Solana.
+  - *dApp Architecture:* Components and architecture of decentralized applications on Solana.
+  - *Cargo Project Architecture:* Setting up Rust projects for Solana development.
+  - *Details About RPC:* Interacting with the Solana network through JSON RPC API.
+  - *Programs in More Detail:* Deeper understanding of Solana programs, accounts, and instruction data.
+  - *Generic Program Flow:* Overview of the generic flow of Solana programs.
+  - *Development Workflow:* Steps involved in developing Solana programs, including compilation, deployment, and interaction.
+  - *Programs, State, Data, Rent, Fees:* Understanding what Solana stores in on-chain accounts and associated concepts.
+  - *Useful Solana Resources:* Resources for further learning and reference on Solana development.
