@@ -1,4 +1,4 @@
-###LESSON 3 
+### LESSON 3  
 
 The text outlines lessons on Solana Command Line Tools, Rust, and Rust concepts like ownership, references, strings, traits, generics, vectors, iterators, and shadowing. 
 - **Solana Command Line Tools:** 
@@ -17,7 +17,7 @@ Instructions for installing, creating a keypair, connecting to the dev network, 
 - **Shadowing:** Re-declaring variables within scope.
 
 
-###LESSON 4 
+### LESSON 4 
 
 Lesson 4 covers various topics related to Rust and Solana development:
 - **Rust Continued:**
